@@ -1,7 +1,7 @@
-###mfg-lvt
+### mfg-lvt
 This gem will suggest list musics, films or games for you
 
-###Installation
+### Installation
 Add this line to your application's Gemfile:
 > gem 'mfg-lvt'
 
@@ -11,6 +11,6 @@ And then execute:
 Or install it yourself as:
 > gem install mfg-lvt
 
-###Usage
+### Usage
 Run in terminal:
 > mfg-lvt
