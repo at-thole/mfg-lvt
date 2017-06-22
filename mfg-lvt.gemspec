@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "mfg-lvt"
   s.email       = "lvtho129@gmail.com"
-  s.version     = "0.1.4"
+  s.version     = "0.1.5"
   s.date        = "2017-06-21"
   s.summary     = "Suggest musics, films or games"
   s.description = "Suggest musics, films or games"
