@@ -1,13 +1,14 @@
 Gem::Specification.new do |s|
   s.name        = "mfg-lvt"
-  s.version     = "0.1.3"
+  s.email       = "lvtho129@gmail.com"
+  s.version     = "0.1.4"
   s.date        = "2017-06-21"
   s.summary     = "Suggest musics, films or games"
   s.description = "Suggest musics, films or games"
   s.authors     = ["Lvtho"]
   s.files       = "lib/mfg-lvt.rb"
   s.executables << "mfg-lvt"
-  s.homepage    = "https://rubygems.org/gems/mfg-lvt"
+  s.homepage    = "https://github.com/at-thole/mfg-lvt"
   s.license     = "MIT"
   s.bindir      = "bin"
 
